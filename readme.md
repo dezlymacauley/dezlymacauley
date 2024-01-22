@@ -8,7 +8,8 @@ who share my passion for programmming and bleeding-edge technologies.
 ---
 
 ### 🔍 My Interests
-- **Systems Programming | Blockchain**
+- **Systems Programming**
+- **Blockchain**
 
 
 ---
@@ -35,5 +36,4 @@ who share my passion for programmming and bleeding-edge technologies.
 
 #
 
----
 
