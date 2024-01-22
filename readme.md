@@ -1,7 +1,6 @@
 # ☯️ Dezly Macauley
 
 Programming isn't just a means to an end for me. It's an exhilarating journey of constant discovery and innovation. 
-
 My goal is to travel the world and meet like-minded individuals,
 who share my passion for programmming and bleeding-edge technologies.
 
@@ -21,8 +20,9 @@ who share my passion for programmming and bleeding-edge technologies.
 <img align="left" alt="Solidity" height="50px" style="padding-right:10px;" src="./images/solidity.png"/>
 <img align="left" alt="Python" height="50px" style="padding-right:10px;" src="./images/python.png"/>
 <br />
+<br />
 
-#
+---
 
 ### 💻 My Dev Environment: 
 - Operating System: **Arch Linux**
@@ -34,6 +34,7 @@ who share my passion for programmming and bleeding-edge technologies.
 <img align="left" alt="Neovim" height="50px" style="padding-right:10px;" src="./images/neovim.png"/>
 <img align="left" alt="Hyprland" height="50px" style="padding-right:10px;" src="./images/hyprland.png"/>
 <img align="left" alt="Alacritty" height="50px" style="padding-right:10px;" src="./images/alacritty.png"/>
+<br />
+<br />
 
-#
-
+---
