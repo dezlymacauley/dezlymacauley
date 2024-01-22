@@ -17,9 +17,11 @@ who share my passion for programmming and bleeding-edge technologies.
 ### ⚔️ My Arsenal
 **Rust, Solidity, Python**
 
-<img align="left" alt="Rust" height="50px" style="padding-right:10px;" src="./images/rust.png"/>
-<img align="left" alt="Solidity" height="50px" style="padding-right:10px;" src="./images/solidity.png"/>
-<img align="left" alt="Python" height="50px" style="padding-right:10px;" src="./images/python.png"/>
+<p>
+    <img align="left" alt="Rust" height="50px" style="padding-right:10px;" src="./images/rust.png"/>
+    <img align="left" alt="Solidity" height="50px" style="padding-right:10px;" src="./images/solidity.png"/>
+    <img align="left" alt="Python" height="50px" style="padding-right:10px;" src="./images/python.png"/>
+</p>
 
 #
 
@@ -35,5 +37,4 @@ who share my passion for programmming and bleeding-edge technologies.
 <img align="left" alt="Alacritty" height="50px" style="padding-right:10px;" src="./images/alacritty.png"/>
 
 #
-
 
