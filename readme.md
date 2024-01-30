@@ -3,22 +3,25 @@
 Programming isn't just a means to an end for me. It's an exhilarating journey of constant discovery and innovation. 
 My goal is to travel the world and meet like-minded individuals,
 who share my passion for programmming and bleeding-edge technologies.
+<br>
+<br>
+Low level programming is what interests me the most.
 
 ---
 
 ### 🔍 My Interests
-- **Systems Programming**
-- **Blockchain**
+- **Systems Programming**&ensp; (Rust, C++)
+- **Blockchain**&ensp; (Solidity)
 
 
 ---
 
 ### ⚔️ My Arsenal
-**Rust, Solidity, Python**
+**Rust, C++, Solidity**
 
 <img align="left" alt="Rust" height="50px" style="padding-right:10px;" src="./images/rust.png"/>
+<img align="left" alt="C++" height="50px" style="padding-right:10px;" src="./images/cpp.png"/>
 <img align="left" alt="Solidity" height="50px" style="padding-right:10px;" src="./images/solidity.png"/>
-<img align="left" alt="Python" height="50px" style="padding-right:10px;" src="./images/python.png"/>
 <br />
 <br />
 
