@@ -19,7 +19,7 @@ Low level programming is what interests me the most.
 ### ⚔️ My Arsenal
 **Rust, C++, Solidity**
 
-<img align="left" alt="Rust" height="50px" style="padding-right:10px;" src="./images/rust.png"/>
+<img align="left" alt="Rust" height="50px" style="padding-right:10px;" src="./images/rust.jpg"/>
 <img align="left" alt="C++" height="50px" style="padding-right:10px;" src="./images/cpp.png"/>
 <img align="left" alt="Solidity" height="50px" style="padding-right:10px;" src="./images/solidity.png"/>
 <br />
