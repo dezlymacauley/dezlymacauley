@@ -8,7 +8,9 @@ _______________________________________________________________________________
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 5px">
-    <span style="font-weight: 500">1. Rust</span>
+    <div>
+        <span style="font-weight: 500">1. Rust</span>
+    </div>
 </div>
 
 _______________________________________________________________________________
@@ -19,7 +21,9 @@ _______________________________________________________________________________
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 5px">
-    <span style="font-weight: 500">1. Vyper</span>
+    <div>
+        <span style="font-weight: 500">1. Vyper</span>
+    </div>
 </div>
 
 _______________________________________________________________________________
@@ -31,8 +35,12 @@ _______________________________________________________________________________
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 5px">
-    <span style="font-weight: 500">1. SQLite</span>
-    <span style="font-weight: 500">2. PostgreSQL</span>
+    <div>
+        <span style="font-weight: 500">1. SQLite</span>
+    </div>
+    <div>
+        <span style="font-weight: 500">2. PostgreSQL</span>
+    </div>
 </div>
 
 _______________________________________________________________________________
@@ -43,7 +51,9 @@ _______________________________________________________________________________
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 5px">
-    <span style="font-weight: 500">1. Arch Linux</span>
+    <div>
+        <span style="font-weight: 500">1. Arch Linux</span>
+    </div>
 </div>
 
 _______________________________________________________________________________
