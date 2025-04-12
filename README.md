@@ -99,3 +99,38 @@ Excluding the European union, my top pick in Europe would be Russia.
 
 <!---------------------------------------------------------------------------->
 <hr />
+
+<table>
+<tr>
+
+<!-- First Card -->
+<td style="padding:15px; vertical-align:top;">
+
+<h4>Low-Level Programming Languages</h4>
+<img alt="Rust logo" src="images/rust.png" height="40" width="45" />
+<img alt="C logo" src="images/c.png" height="40" width="45" />
+<ul>
+  <li>Rust</li>
+  <li>C</li>
+</ul>
+
+</td>
+
+<!-- Spacer -->
+<td style="width: 40px;"></td>
+
+<!-- Second Card -->
+<td style="padding:15px; vertical-align:top;">
+
+<h4>Statically-Typed Back-End Languages</h4>
+<img alt="Go logo" src="images/go.png" height="40" width="50" />
+<img alt="C# logo" src="images/c_sharp.png" height="40" />
+<ul>
+  <li>Go</li>
+  <li>C#</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
