@@ -1,73 +1,101 @@
-<!-- Title -->
-<h1 style="text-align: center;">
-    <p style="font-weight: 800;">😈 Dezly Macauley</p>
-</h1>
+<h1 align="center">🔱 Dezly Macauley 🔱</h1>
 
-<!---------------------------------------------------------------------------->
-
-<div style="display: flex; flex-direction: row; gap: 5px; margin-bottom: 5px;">
-    <!-- Low-Level Programming -->
-    <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center; align-items: center; border-width: 2px; border-style: solid; border-color: purple; padding-left: 10px; padding-right:10px; padding-bottom: 10px;">
-        <h3>Linux Proficiency</h3>
-        <div style="display: flex; flex-direction: row; gap: 2px;">
-            <img src="images/arch_linux.png" alt="Rust Logo" width="50" height="50">
-        </div>
-        <div style="display: flex; flex-direction: column;">
-            <span style="font-weight: 500; font-size: 18px;">Arch</span>
-        </div>
-    </div>
-    <!-- Low-Level Programming -->
-    <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center; align-items: center; border-width: 2px; border-style: solid; border-color: purple; padding-left: 10px; padding-right:10px; padding-bottom: 10px;">
-        <h3>Low-Level Programming</h3>
-        <div style="display: flex; flex-direction: row; gap: 2px;">
-            <img src="images/rust.png" alt="Rust Logo" width="50" height="50">
-            <img src="images/c.png" alt="Rust Logo" width="50" height="50">
-        </div>
-        <div style="display: flex; flex-direction: column;">
-            <span style="font-weight: 500; font-size: 18px;">Rust, C</span>
-        </div>
-    </div>
+<div align="center">
+    <p><strong>Email:</strong> dezlymacauley@proton.me</p>
+    <img alt="Intro gif" src="images/intro.gif" height="300" />
 </div>
 
 <!---------------------------------------------------------------------------->
+<hr />
+<h2 align="center">📜 About Me</h2>
 
-<div style="display: flex; flex-direction: row; gap: 5px; margin-bottom: 5px;">
-    <!-- Database Development -->
-    <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center; align-items: center; border-width: 2px; border-style: solid; border-color: purple; padding-left: 10px; padding-right:10px; padding-bottom: 10px;">
-        <h3>Database Development</h3>
-        <div style="display: flex; flex-direction: row; gap: 2px;">
-            <img src="images/postgresql.png" alt="Rust Logo" width="50" height="50">
-            <img src="images/sqlite.png" alt="Rust Logo" width="50" height="50">
-        </div>
-        <div style="display: flex; flex-direction: column;">
-            <span style="font-weight: 500; font-size: 18px;">PostgreSQL, SQLite</span>
-        </div>
-    </div>
-    <!-- Back-End Programming -->
-    <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center; align-items: center; border-width: 2px; border-style: solid; border-color: purple; padding-left: 10px; padding-right:10px; padding-bottom: 10px;">
-        <h3>Back-End Development</h3>
-        <div style="display: flex; flex-direction: row; gap: 2px;">
-            <img src="images/go.png" alt="Rust Logo" width="50" height="50">
-            <img src="images/python.png" alt="Rust Logo" width="50" height="50">
-        </div>
-        <div style="display: flex; flex-direction: column;">
-            <span style="font-weight: 500; font-size: 18px;">Go, Python</span>
-        </div>
-    </div>
+My surname Macauley traces back to Clan MacAulay of Scotland. 
+Their motto is "Dulce Periculum", a Latin phrase that means:
+
+"Danger is sweet" 
+
+A fitting motto for someone who is passionate about Rust, 
+low-level programming, and eager to learn more about ethical hacking and 
+artificial intelligence.
+
+My goal is to live in the European Union. Italy to be specific.
+Excluding the European union, my top pick in Europe would be Russia.
+
+🇪🇺 🇮🇹 🇷🇺
+
+<!---------------------------------------------------------------------------->
+<hr />
+<h2 align="center">💻 My Development Setup</h2>
+<!---------------------------------------------------------------------------->
+<hr />
+
+<img alt="Arch Linux logo" src="images/arch_linux.png" height="40" />
+<img alt="Neovim logo" src="images/neovim.png" height="40" />
+
+<ul>
+  <li>Arch Linux (My daily Operating system for learning Computer Science)</li>
+  <li>Kali Linux on VMware (For learning Application Security)</li>
+  <li>Hyprland</li>
+  <li>Neovim</li>
+  <li>Yazi</li>
+  <li>Ghostty</li>
+</ul>
+
+<!---------------------------------------------------------------------------->
+<hr />
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<!---------------------------------------------------------------------------->
+<hr />
+
+<div style="display: flex; gap: 30px;">
+
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 250px;">
+    <h4>Low-Level Programming Languages</h4>
+    <img alt="Rust logo" src="images/rust.png" height="40" width="45" />
+    <img alt="C logo" src="images/c.png" height="40" width="45" />
+    <ul>
+      <li>Rust</li>
+      <li>C</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 250px;">
+    <h4>Statically-Typed Back-End Languages</h4>
+    <img alt="Go logo" src="images/go.png" height="40" width="50" />
+    <img alt="C# logo" src="images/c_sharp.png" height="40" />
+    <ul>
+      <li>Go</li>
+      <li>C#</li>
+    </ul>
+  </div>
+  
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 250px;">
+    <h4>Dynamically-Typed Back-End Languages</h4>
+    <img alt="Python logo" src="images/python.png" height="40" width="50" />
+    <ul>
+      <li>Python</li>
+    </ul>
+  </div>
+
 </div>
 
 <!---------------------------------------------------------------------------->
+<br/>
 
-<div style="display: flex; flex-direction: row; gap: 5px; margin-bottom: 5px;">
-    <!-- Smart Contract Development -->
-    <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center; align-items: center; border-width: 2px; border-style: solid; border-color: purple; padding-left: 10px; padding-right:10px; padding-bottom: 10px;">
-        <h3>Smart Contract Development</h3>
-        <div style="display: flex; flex-direction: row; gap: 2px;">
-            <img src="images/vyper.png" alt="Rust Logo" width="50" height="50">
-        </div>
-        <div style="display: flex; flex-direction: column;">
-            <span style="font-weight: 500; font-size: 18px;">Vyper</span>
-        </div>
-    </div>
+<div style="display: flex; gap: 30px;">
+
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 250px;">
+    <h4>Database Languages</h4>
+    <img alt="SQLite logo" src="images/sqlite.png" height="40" width="50" />
+    <img alt="PostgreSQL logo" src="images/postgresql.png" height="40" width="50" />
+    <ul>
+      <li>SQLite</li>
+      <li>PostgreSQL</li>
+    </ul>
+  </div>
+
 </div>
+
 <!---------------------------------------------------------------------------->
+<hr />
