@@ -72,7 +72,6 @@ Excluding the European union, my top pick in Europe would be Russia.
 
 <h4>Statically-Typed Back-End Languages</h4>
 <img alt="Go logo" src="images/go.png" height="40" width="50" />
-<img alt="C# logo" src="images/c_sharp.png" height="40" />
 <ul>
   <li>Go</li>
   <li>C#</li>
