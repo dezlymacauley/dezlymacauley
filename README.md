@@ -74,7 +74,6 @@ Excluding the European union, my top pick in Europe would be Russia.
 <img alt="Go logo" src="images/go.png" height="40" width="50" />
 <ul>
   <li>Go</li>
-  <li>C#</li>
 </ul>
 
 </td>
