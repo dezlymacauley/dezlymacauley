@@ -17,5 +17,5 @@ _______________________________________________________________________________
 - **Email: dezlymacauley@proton.me**
 _______________________________________________________________________________
 ### 🏆 Resume
-- **[dezly_macauley_resume.pdf](https://github.com/dezlymacauley/dezlymacauley/raw/main/resume/dezly_macauley_resume.pdf)**
+- **[dezly_macauley_resume.pdf](https://github.com/dezlymacauley/dezlymacauley/blob/main/resume/dezly_macauley_resume.pdf?raw=true)**
 _______________________________________________________________________________
