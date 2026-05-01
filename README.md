@@ -3,12 +3,16 @@ _______________________________________________________________________________
 
 ## Skill Overview
 
-| Skill                         | Technologies   |
-| ----------------------------- | -------------- |
-| Low-Level Systems Programming | 🦀 Rust        |
-| Linux Proficiency             | 🐧 Arch Linux  |
-| Database Development          | 🐘 Postgres    |
-| Garbage-Collected Programming | 🐍 Python      |
-| Shell Scripting               | 🐚 Bash        |
-| User Interface Design         | 🎨 CSS         |
+| Skill                         | Technologies                   |
+| ----------------------------- | ------------------------------ |
+| Low-Level Systems Programming | 🦀 Rust                        |
+| Database Development          | 🐘 Postgres                    |
+| Garbage-Collected Programming | 🐍 Python                      |
+|                               |                                |
+| Shell Scripting               | 🐚 Bash                        |
+| Linux Proficiency             | 🐧 Arch Linux                  |
+|                               |                                |
+| **User Interface Design**     | 📜 HTML, 🎨 CSS, 🔷 TypeScript |
+|                               | 💨 Tailwind CSS                |
+|                               | 🔶 Svelte, SvelteKit           |
 _______________________________________________________________________________
