@@ -1,41 +1,19 @@
 # Dezly Macauley
 _______________________________________________________________________________
 
-## Skill Overview
+### Skill Overview
 
-|                               |                                |
-| ----------------------------- | ------------------------------ |
-| **Systems Programming**       |                                |
-|                               | 🦀 Rust                        |
-|                               |                                |
+- **Systems Programming:** &nbsp;🦀 Rust                        
 
-|                               |                                |
-| ----------------------------- | ----------------------|
-| **Developer Tools**           |                                |
-|                               | 🗃️ Git                         |
-|                               | 🐧 Arch Linux, 🐚 Bash         |
-|                               | 👨‍🍳 Mise                        |
-|                               | 🐳 Docker                      |
+- **Artificial Intelligence:** &nbsp; 🐍 Python, 🔦 PyTorch
 
-|                               |                                |
-| ----------------------------- | ----------------------|
-| **Database Development**      |                                |
-|                               | 🐘 Postgres                    |
-|                               | 🪶 SQLite                      |
-|                               |                                |
+- **Database Development:** &nbsp; 🐘 Postgres, 🪶 SQLite, 🟥 Redis
 
-|                                   |                       |
-| --------------------------------- | ----------------------|
-| **Garbage-Collected Programming** |                       |
-|                                   | 🐍 Python             |
-|                                   | 🐹 Go                 |
+- **User Interface Design:** &nbsp;
+    - 🍞 Bun, 📜 HTML, 🎨 CSS, 🔷 TypeScript
+    - 💨 Tailwind CSS, 🔶 SvelteKit
 
-|                               |                                |
-| ----------------------------- | -------------------------------|
-| **User Interface Design**     |                                |
-|                               | 🍞 Bun                         |
-|                               | 📜 HTML, 🎨 CSS, 🔷 TypeScript |
-|                               | 💨 Tailwind CSS                |
-|                               | 🔶 SvelteKit                   |
-
+- **DevOps:** &nbsp;
+    - 🗃️ Git, 🐧 Arch Linux, 🐚 Bash
+    - 👨‍🍳 Mise, 🐳 Docker
 _______________________________________________________________________________
