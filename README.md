@@ -13,7 +13,7 @@ _______________________________________________________________________________
     - 🍞 Bun, 📜 HTML, 🎨 CSS, 🔷 TypeScript
     - 💨 Tailwind CSS, 🔶 SvelteKit
 
-- **DevOps:** &nbsp;
+- **DevOps Engineering:** &nbsp;
     - 🗃️ Git, 🐧 Arch Linux, 🐚 Bash
     - 👨‍🍳 Mise, 🐳 Docker
 _______________________________________________________________________________
