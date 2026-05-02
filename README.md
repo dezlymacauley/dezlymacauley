@@ -3,16 +3,39 @@ _______________________________________________________________________________
 
 ## Skill Overview
 
-| Skill                         | Technologies                   |
+|                               |                                |
 | ----------------------------- | ------------------------------ |
-| Low-Level Systems Programming | 🦀 Rust                        |
-| Database Development          | 🐘 Postgres                    |
-| Garbage-Collected Programming | 🐍 Python                      |
+| **Systems Programming**       |                                |
+|                               | 🦀 Rust                        |
 |                               |                                |
-| Shell Scripting               | 🐚 Bash                        |
-| Linux Proficiency             | 🐧 Arch Linux                  |
+
 |                               |                                |
-| **User Interface Design**     | 📜 HTML, 🎨 CSS, 🔷 TypeScript |
+| ----------------------------- | ----------------------|
+| **Developer Tools**           |                                |
+|                               | 🗃️ Git                         |
+|                               | 🐧 Arch Linux, 🐚 Bash         |
+|                               | 👨‍🍳 Mise                        |
+|                               | 🐳 Docker                      |
+
+|                               |                                |
+| ----------------------------- | ----------------------|
+| **Database Development**      |                                |
+|                               | 🐘 Postgres                    |
+|                               | 🪶 SQLite                      |
+|                               |                                |
+
+|                                   |                       |
+| --------------------------------- | ----------------------|
+| **Garbage-Collected Programming** |                       |
+|                                   | 🐍 Python             |
+|                                   | 🐹 Go                 |
+
+|                               |                                |
+| ----------------------------- | -------------------------------|
+| **User Interface Design**     |                                |
+|                               | 🍞 Bun                         |
+|                               | 📜 HTML, 🎨 CSS, 🔷 TypeScript |
 |                               | 💨 Tailwind CSS                |
-|                               | 🔶 Svelte, SvelteKit           |
+|                               | 🔶 SvelteKit                   |
+
 _______________________________________________________________________________
