@@ -5,6 +5,9 @@ _______________________________________________________________________________
 
 - **Systems Programming:**
     - 🦀 Rust                        
+    - 🦎 Zig
+    - 🔨 C
+    - 🛠️ C++
 
 - **Garbage-Collected Programming:**
     - 🐍 Python, 🔦 PyTorch
@@ -16,11 +19,11 @@ _______________________________________________________________________________
     - 🟥 Redis
 
 - **User Interface Design:**
-    - 🍞 Bun, 📜 HTML, 🎨 CSS, 🟦 TypeScript
     - 🔶 SvelteKit
     - 💨 Tailwind CSS
+    - 🍞 Bun, 📜 HTML, 🎨 CSS, 🟦 TypeScript
 
-- **DevOps Engineering:**
-    - 🗃️ Git, 🐧 Arch Linux, 🐚 Bash
+- **Developer Tools:**
     - 👨‍🍳 Mise, 🐳 Docker
+    - 🐧 Arch Linux, 🐚 Bash, 🗃️ Git 
 _______________________________________________________________________________
