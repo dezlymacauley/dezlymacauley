@@ -3,17 +3,24 @@ _______________________________________________________________________________
 
 ### Skill Overview
 
-- **Systems Programming:** &nbsp;🦀 Rust                        
+- **Systems Programming:**
+    - 🦀 Rust                        
 
-- **Artificial Intelligence:** &nbsp; 🐍 Python, 🔦 PyTorch
+- **Garbage-Collected Programming:**
+    - 🐍 Python, 🔦 PyTorch
+    - 🐹 Go
+    - 🌙 Lua
 
-- **Database Development:** &nbsp; 🐘 Postgres, 🪶 SQLite, 🟥 Redis
+- **Database Development:**
+    - 🐘 PostgreSQL, 🪶 SQLite
+    - 🟥 Redis
 
-- **User Interface Design:** &nbsp;
-    - 🍞 Bun, 📜 HTML, 🎨 CSS, 🔷 TypeScript
-    - 💨 Tailwind CSS, 🔶 SvelteKit
+- **User Interface Design:**
+    - 🍞 Bun, 📜 HTML, 🎨 CSS, 🟦 TypeScript
+    - 🔶 SvelteKit
+    - 💨 Tailwind CSS
 
-- **DevOps Engineering:** &nbsp;
+- **DevOps Engineering:**
     - 🗃️ Git, 🐧 Arch Linux, 🐚 Bash
     - 👨‍🍳 Mise, 🐳 Docker
 _______________________________________________________________________________
