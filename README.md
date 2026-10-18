@@ -15,6 +15,6 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 ### 🎨 User Interface Development
 - **Programming Language:** TypeScript (Runtime: Bun)
-- **Framework:** SvelteKit
+- **Frameworks:** SvelteKit, Astro (with Svelte)
 - **Styling:** HTML and CSS
 _______________________________________________________________________________
