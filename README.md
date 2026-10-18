@@ -1,8 +1,20 @@
 # Dezly Macauley: Tech Stack
 _______________________________________________________________________________
-### 🎨 User Interface Design
-- **Runtime:** Bun
+### ♾️ DevOps
+- **Cloud Platform:** AWS
+- **Infrastructure As Code:** Terraform
+- **Containerisation:** Docker
+- **Scripting:** Bash
+_______________________________________________________________________________
+### ⚙️ Systems Programming
+- **Non-Garbage Collected:** Rust
+- **Garbage Collected:** Go
+_______________________________________________________________________________
+### 🗃️ Database Development
+- **Relational Databases:** Postgres, SQLite
+_______________________________________________________________________________
+### 🎨 User Interface Development
+- **Programming Language:** TypeScript (Runtime: Bun)
+- **Framework:** SvelteKit
 - **Styling:** HTML and CSS
-- **Programming Language:** TypeScript
-- **Frameworks:** SvelteKit
 _______________________________________________________________________________
