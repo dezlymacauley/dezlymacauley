@@ -1,4 +1,6 @@
-# Dezly Macauley: Tech Stack
+# Dezly Macauley
+_______________________________________________________________________________
+## [📄 View / Download Resume (PDF)](./dezly_macauley_resume.pdf)
 _______________________________________________________________________________
 
 ### 🤖 Systems Programming | AI
