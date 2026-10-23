@@ -1,6 +1,6 @@
 # Dezly Macauley
 _______________________________________________________________________________
-[📄 View Resume (PDF)](https://github.com/dezlymacauley/dezlymacauley/blob/main/dezly_macauley_resume.pdf)
+## [📄 View Resume (PDF)](https://dezlymacauley.github.io/dezlymacauley/resume/dezly_macauley_resume.pdf)
 _______________________________________________________________________________
 
 ### 🤖 Systems Programming | AI
