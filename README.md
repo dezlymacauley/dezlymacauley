@@ -1,14 +1,16 @@
 # Dezly Macauley: Tech Stack
 _______________________________________________________________________________
-### ♾️ DevOps
+### 🤖 Systems Programming
+- **Modern:** Rust
+- **Foundational:** C
+_______________________________________________________________________________
+### ♾️ DevOps and AI
 - **Cloud Platform:** AWS
 - **Infrastructure As Code:** Terraform
 - **Containerisation:** Docker
+- **Infrastructure & Tooling:** Go
+- **Artificial Intelligence:** Python (Package Manager: uv)
 - **Scripting:** Bash
-_______________________________________________________________________________
-### ⚙️ Systems Programming
-- **Non-Garbage Collected:** Rust
-- **Garbage Collected:** Go
 _______________________________________________________________________________
 ### 🗃️ Database Development
 - **Relational Databases:** Postgres, SQLite
