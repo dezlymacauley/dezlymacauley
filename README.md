@@ -1,6 +1,6 @@
 # Dezly Macauley
 _______________________________________________________________________________
-## [📄 View / Download Resume (PDF)](./dezly_macauley_resume.pdf)
+## [📄 View Resume (PDF)](./dezly_macauley_resume.pdf?raw=true)
 _______________________________________________________________________________
 
 ### 🤖 Systems Programming | AI
