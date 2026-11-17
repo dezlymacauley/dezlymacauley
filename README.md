@@ -7,10 +7,10 @@ _______________________________________________________________________________
 - **Modern Systems:** Rust
 - **Foundational Systems:** C
 - **Infrastructure Tooling:** Go
-- **Artificial Intelligence:** Python (Package Manager: uv)
+- **Artificial Intelligence:** Python (Package Manager: uv), Langchain
 _______________________________________________________________________________
 
-### ♾️ DevOps | MLOps
+### ♾️ DevOps
 - **Cloud Platform:** AWS
 - **Infrastructure As Code:** Terraform
 - **Containerisation:** Docker
